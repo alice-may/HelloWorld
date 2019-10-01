@@ -12,6 +12,7 @@ JinapriyaMadushanka - JavaScript
 kd3n - Java
 Kavishka - PHP
 Kolkies - Typescript
+iamharshitgupta - c++
 Shubhang - Lua
 rbo13 - Go
 ```
