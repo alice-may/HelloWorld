@@ -15,5 +15,4 @@ Kolkies - Typescript
 iamharshitgupta - c++
 Shubhang - Lua
 rbo13 - Go
-alice-may - html
 ```
